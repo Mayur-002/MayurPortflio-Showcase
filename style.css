@@ -283,7 +283,7 @@ section{
   font-weight: bold;
   color: black;
   font-size: 2rem;
-  background-color: #FDB750;
+  background-color: rgba(248, 172, 110, 0.411);
   background-size: auto;
   padding: 10px;
   border-radius: 10px;
